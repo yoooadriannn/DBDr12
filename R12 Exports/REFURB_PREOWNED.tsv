@@ -1,0 +1,10 @@
+Level	Item	Description	Revision	Type	Status	Engineering Item	Item Seq	Op Seq	Alternate	Engineering Bill	Comments	UOM	Basis	Quantity	Planning %	Yield	Extended Quantity	Effectivity Control	From	To	From Date	To Date	Implemented	ECO	Supply Type	Subinventory	Locator	Costed	Unit Cost	Extended Quantity	Extended Cost	Operation Seq	Manufacturing	Offset	Cumulative Manufacuturing	Cumulative Total	Optional	Mutually Exclusive	ATP	Min Qty	Max Qty	Sales Order Basis	Shippable	Include on Ship Docs	Required To Ship	Required For Revenue	
+2	RINCR0005871	NCR 5871 - PRE-OWNED	000	Purchased item	ATT-FIN		10	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:18		*							1		1	1		0	3	*					None	*				
+2	RINCR0006676	NCR 6676 - PRE-OWNED	000	Purchased item	ATT-FIN		60	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:12		*							1		1	1		0	3	*					None	*				
+2	RINCR00E5890	NCR 5890E - PRE-OWNED	000	Purchased item	ATT-FIN		80	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:08		*							1		1	1		0	3	*					None	*				
+2	RINCR00W6634	NCR 6634 WU - PRE-OWNED	000	Purchased item	ATT-FIN		90	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:08		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR1500	WINCOR 1500 - PRE-OWNED	000	Purchased item	ATT-FIN		100	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:07		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR2100	WINCOR 2100 - PRE-OWNED	000	Purchased item	ATT-FIN		110	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:07		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR2250	WINCOR 2250 - PRE-OWNED	000	Purchased item	ATT-FIN		130	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:03		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR2350	WINCOR 2350 - PRE-OWNED	000	Purchased item	ATT-FIN		140	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:03		*							1		1	1		0	3	*					None	*				
+2	RINCR0006632	NCR 6632 - PRE-OWNED	000	Purchased item	ATT-FIN		150	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:02		*							1		1	1		0	3	*					None	*				

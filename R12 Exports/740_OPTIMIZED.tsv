@@ -1,0 +1,33 @@
+Level	Item	Description	Revision	Type	Status	Engineering Item	Item Seq	Op Seq	Alternate	Engineering Bill	Comments	UOM	Basis	Quantity	Planning %	Yield	Extended Quantity	Effectivity Control	From	To	From Date	To Date	Implemented	ECO	Supply Type	Subinventory	Locator	Costed	Unit Cost	Extended Quantity	Extended Cost	Operation Seq	Manufacturing	Offset	Cumulative Manufacuturing	Cumulative Total	Optional	Mutually Exclusive	ATP	Min Qty	Max Qty	Sales Order Basis	Shippable	Include on Ship Docs	Required To Ship	Required For Revenue	
+4	FS0017400NE8	OPTEVA 740 DRIVE-UP ATM	000	Subassembly	Attribute		250	1				EA	Item	1	100	1	1	Date			14-JUL-2016 13:35:54		*							1		1			0	0	*					None	*				
+4	FB006811001C	Agilis XFS for Opteva, v4.1.2 Platform Preload PKG	000	Subassembly	Attribute		60	1				EA	Item	1	100	1	1	Date			14-JUL-2016 13:40:01		*							1		1			0	0	*					None	*				
+4	FB006962000A	Shared Branch v2.1 Licenses (New)	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			31-MAR-2016 11:28:23		*							1		1			0	0	*					None	*				
+4	FB006963000A	Shared Branch v2.1 Maintenance License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			31-MAR-2016 11:28:25		*							1		1			0	0	*					None	*				
+4	FB006961000A	Shared Branch v2.1.0 Media	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			31-MAR-2016 11:28:48		*							1		1			0	0	*					None	*				
+4	FB006741000B	ImageWay ATM Manager 2.0 License Package	000	Subassembly	Attribute		40	1				EA	Item	1	100	1	1	Date			14-JUL-2016 12:48:12		*							1		1			0	0	*					None	*				
+4	FB006742000B	ImageWay ATM Manager 2.0 Preload Package	000	Subassembly	Attribute		50	1				EA	Item	1	100	1	1	Date			14-JUL-2016 12:48:14		*							1		1			0	0	*					None	*				
+4	FB006743000B	ImageWay ATM Manager 2.0 Media Package	000	Subassembly	Attribute		60	1				EA	Item	1	100	1	1	Date			14-JUL-2016 12:48:27		*							1		1			0	0	*					None	*				
+5	FBDC2114000F	HDDSK DRV,ENCRYPTED,SATA,500G,2.5IN,OPTEVA	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			08-SEP-2015 10:21:33		*							1		1			0	0	*					None	*				
+5	FB002114000F	HDDSK DRV,ENCRYPTED,SATA,500G,2.5IN,OPTEVA	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			08-SEP-2015 10:21:36		*							1		1			0	0	*					None	*				
+1	PRD_SST	SST Product not ATM configuration	000	PTO model	Attribute		30	1				EA	Item	1	100	1	1	Date			01-AUG-2016 09:30:45		*		Phantom					1		1					*					None					
+3	00105882000E	Pro Services, Lousiana Flood	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			31-AUG-2016 13:08:49		*							1		1			0	0	*					None	*				
+1	PRS_SST	SST Professional Services	000	PTO model	Attribute		40	1				EA	Item	1	100	1	1	Date			01-AUG-2016 09:30:45		*		Phantom					1		1					*					None					
+3	00157260000A	PS COMMANDER Base Server Implementation	000	Subassembly	Attribute		10	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:23		*							1		1			0	0	*					None	*				
+3	00157261000A	PS COMMANDER Server with Gateway Implementation	000	Subassembly	Attribute		20	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:22		*							1		1			0	0	*					None	*				
+3	00157262000A	PS COMMANDER Marketing and Personalization - includes Campaign, Personalization, and or, 1to1	000	Subassembly	Attribute		30	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:18		*							1		1			0	0	*					None	*				
+3	00157263000A	PS ACAI - COMMANDER Marketing and Personalization - includes Campaign, Personalization, 1 to 1 and or eCommunication	000	Subassembly	Attribute		40	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:17		*							1		1			0	0	*					None	*				
+3	00157264000A	PS COMMANDER Compliance and Asset Management	000	Subassembly	Attribute		50	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157265000A	PS ACAI - COMMANDER Asset Management	000	Subassembly	Attribute		60	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157266000A	PS COMMANDER Deposit Analytics and Deposit Dispute Management	000	Subassembly	Attribute		70	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:13		*							1		1			0	0	*					None	*				
+3	00157267000A	PS COMMANDER Performance Tuning of Deposit Analytics	000	Subassembly	Attribute		80	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:12		*							1		1			0	0	*					None	*				
+3	00157268000A	PS COMMANDER Software Deployment and Management	000	Subassembly	Attribute		90	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:11		*							1		1			0	0	*					None	*				
+3	00157269000A	PS ACAI - COMMANDER Software Deployment and Management	000	Subassembly	Attribute		100	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:20		*							1		1			0	0	*					None	*				
+3	00157270000A	PS COMMANDER eCommunications	000	Subassembly	Attribute		110	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:21		*							1		1			0	0	*					None	*				
+3	00157271000A	PS COMMANDER Troubleshooting Manager	000	Subassembly	Attribute		120	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:22		*							1		1			0	0	*					None	*				
+3	00157272000A	PS COMMANDER Content Manager	000	Subassembly	Attribute		130	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:09		*							1		1			0	0	*					None	*				
+3	00157273000A	PS XPRESSION Easy Interactive	000	Subassembly	Attribute		140	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:15		*							1		1			0	0	*					None	*				
+3	00157274000A	PS XPRESSION Teller Assist	000	Subassembly	Attribute		150	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:18		*							1		1			0	0	*					None	*				
+3	00157275000A	PS XPRESSION Interactive Teller - Integration	000	Subassembly	Attribute		160	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:16		*							1		1			0	0	*					None	*				
+3	00157361000A	PS Project Management - Phoenix	000	Subassembly	Attribute		180	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:11		*							1		1			0	0	*					None	*				
+3	00157259000A	PS - VISTAatm Developer Support Bundle	000	Subassembly	Attribute		190	1				EA	Item	1	100	1	1	Date			16-AUG-2016 11:23:20		*							1		1			0	0	*					None	*				
+1	MGS_SST	SST Managed Services	000	PTO model	Attribute		50	1				EA	Item	1	100	1	1	Date			01-AUG-2016 09:30:47		*		Phantom					1		1					*					None					

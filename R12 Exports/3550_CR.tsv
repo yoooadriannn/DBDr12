@@ -1,0 +1,160 @@
+Level	Item	Description	Revision	Type	Status	Engineering Item	Item Seq	Op Seq	Alternate	Engineering Bill	Comments	UOM	Basis	Quantity	Planning %	Yield	Extended Quantity	Effectivity Control	From	To	From Date	To Date	Implemented	ECO	Supply Type	Subinventory	Locator	Costed	Unit Cost	Extended Quantity	Extended Cost	Operation Seq	Manufacturing	Offset	Cumulative Manufacuturing	Cumulative Total	Optional	Mutually Exclusive	ATP	Min Qty	Max Qty	Sales Order Basis	Shippable	Include on Ship Docs	Required To Ship	Required For Revenue	
+1	3550	Diebold 3550 ATO Model (DBD)	000	ATO model	ATT-FIN		10	1				EA	Item	1	100	1	1	Date			18-FEB-2015 16:18:32		*		Phantom					1		1	50				*					None	*				
+3	FB008701000A	COLOR SCHEME 8701,MICA GUN METAL,MICA BLACK,MICA SILVER	000	Purchased item	ATT-FIN		10	1				EA	Item	1	0	1	1	Date			27-MAY-2014 00:00:00		*							1		1	26		0	31	*					None	*				
+3	FB008716000A	COLOR SCHEME 8716, DIEBOLD 7790	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			21-JUN-2016 15:00:24		*							1		1			0	0	*					None	*				
+3	FB008717000A	COLOR SCHEME 8717, DIEBOLD 5500	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			11-JUL-2016 17:25:31		*							1		1			0	0	*					None	*				
+3	FB008717000B	COLOR SCHEME 8717, DIEBOLD 7700	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			12-JUL-2016 08:33:35		*							1		1			0	0	*					None	*				
+3	FB008719000A	COLOR SCHEME 8719, DIEBOLD 3700	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			23-AUG-2016 15:49:49		*							1		1			0	0	*					None	*				
+3	FBRSTS00000A	Direct Ship from Manufacturing	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			18-MAY-2016 09:58:29		*							1		1			0	0	*					None	*				
+3	FBRCTS00000A	Custom Terminal Staging	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			18-MAY-2016 09:58:32		*							1		1			0	0	*					None	*				
+6	FBSXFS410N0A	Diebold XFS, v6.0.2 Preload Package	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			06-JAN-2015 13:04:05		*							1		1			0	0	*					None	*				
+6	FBSXFS410N0C	Diebold XFS v6.0.3, Preload Package	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			07-JUL-2015 10:26:25		*							1		1			0	0	*					None	*				
+6	FBSNDX101N0A	Agilis3 NDx License Package	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			18-NOV-2015 13:16:00		*							1		1			0	0	*					None	*				
+6	FBS91X110N0A	Agilis 3 91x for Opteva One-Time-Charge EMEA License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			27-APR-2016 16:32:36		*							1		1			0	0	*					None	*				
+6	FBS91X104N0A	Agilis 3 91x Diebold Terminal Field Upgrade License	000	Subassembly	Attribute		40	1				EA	Item	1	100	1	1	Date			13-JUN-2016 09:35:48		*							1		1			0	0	*					None	*				
+6	FBS91X114N0A	Agilis 3 91x for Opteva One-Time-Charge EMEA Upgrade License	000	Subassembly	Attribute		50	1				EA	Item	1	100	1	1	Date			13-JUN-2016 09:35:49		*							1		1			0	0	*					None	*				
+6	FBS91X115N0A	Agilis 3 91x for Opteva One-Time-Charge AP Upgrade License	000	Subassembly	Attribute		60	1				EA	Item	1	100	1	1	Date			13-JUN-2016 09:35:52		*							1		1			0	0	*					None	*				
+6	FBS91X401N0A	Agilis 3 91x SP4 Factory Preload Package	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			30-MAR-2015 11:30:25		*		Phantom					1		1			0	0	*					None	*				
+6	FBSNDX401N0A	Agilis 3 NDx SP6 Factory Preload Package	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			18-NOV-2015 13:19:27		*		Phantom					1		1			0	0	*					None	*				
+6	FBSABM410N0A	Agilis EmPower Basic Maintenance v2.5 Preload Package	000	Subassembly	Attribute		20	1				EA	Item	1	100	1	1	Date			08-JUL-2015 08:51:10		*							1		1			0	0	*					None	*				
+6	FBSNDX102N0A	Agilis3 NDx License - Cash Dispenser	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			18-NOV-2015 13:23:19		*							1		1			0	0	*					None	*				
+6	FBSNDX103N0A	Agilis3 NDx License - Advanced Function	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			18-NOV-2015 13:23:18		*							1		1			0	0	*					None	*				
+6	FBSXFS410N0A	Diebold XFS, v6.0.2 Preload Package	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			28-JAN-2015 14:00:00		*							1		1			0	0	*					None	*				
+6	FBSXFS410N0C	Diebold XFS v6.0.3, Preload Package	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			27-JUL-2015 12:01:47		*							1		1			0	0	*					None	*				
+7	FBSPHX103N0A	VISTA Application 5 - Standard Configuration	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX105N0A	VISTA Application 5 - Intelligent Deposit Configuration	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX107N0A	VISTA Application 5 - IAD Configuration	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX123N0A	VISTA Platform 5 w/ EMV License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX108N0A	VISTA Audio Assist (w/ English as First Language)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX100N0A	VISTA Additional Audio Assist Language- Portugese	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX101N0A	VISTA Additional Audio Assist Language -Chinese	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX161N0A	VISTA Additional Audio Assist Language - French	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX162N0A	VISTA Additional Audio Assist Language - Spanish License	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX163N0A	VISTA Additional Audio Assist Language - German	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX109N0A	VISTA Additional On-Screen Language - Chinese (Mandarin) License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX110N0A	VISTA Additional On-Screen Language - French License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX111N0A	VISTA Additional On-Screen Language - German	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX116N0A	VISTA Additional On-Screen Language - Polish License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX113N0A	VISTA Additional On-Screen Language - Indonesian License	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX114N0A	VISTA Additional On-Screen Language - Italian License	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX115N0A	VISTA Additional On-Screen Language - Korean License	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX112N0A	VISTA Additional On-Screen Language - Portuguese License	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX117N0A	VISTA Additional On-Screen Language - Russian License	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX118N0A	VISTA Additional On-Screen Language - Spanish	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX119N0A	VISTA Additional On-Screen Language - Thai License	000	Subassembly	Attribute		110	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX120N0A	VISTA Additional On-Screen Language - Turkish License	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1	1		1	2	*					None	*				
+7	FBSPHX169N0A	VISTA Enhanced Tiled Touchscreen UX	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX125N0A	VISTA Intelligent Deposit Cash Deposit Module License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX126N0A	VISTA Intelligent Deposit Check Deposit Module (USA)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:31:49		*							1		1			0	4	*					None	*				
+7	FBSPHX127N0A	VISTA Intelligent Deposit Check Deposit Module (International)	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:31:47		*							1		1			0	4	*					None	*				
+7	FBSPHX160N0A	VISTA Enhanced Gateway (IFX Messaging)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX102N0A	VISTA Device Monitor (SNMP) License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX124N0A	VISTA Remote Operator License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX130N0A	COMMANDER Asset Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX145N0A	ACAI COMMANDER Asset Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX132N0A	COMMANDER Campaign Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX147N0A	ACAI COMMANDER Campaign Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX149N0A	COMMANDER Content Manager Terminal License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			23-JUN-2016 08:33:47		*							1		1			0	4	*					None	*				
+7	FBSPHX152N0A	COMMANDER Software Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX153N0A	ACAI COMMANDER Software Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX134N0A	COMMANDER Troubleshooting Manager Terminal License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1	1		1	2	*					None	*				
+7	FBSPHX137N0A	COMMANDER 1:1 Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX139N0A	ACAI COMMANDER 1:1 Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX143N0A	COMMANDER Personalization Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX140N0A	ACAI COMMANDER Personalization Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX165N0A	COMMANDER Deposit Manager Terminal License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX156N0A	COMMANDER eCommunication Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX128N0A	ACAI COMMANDER eCommunication Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX157N0A	XPRESSION Self-Service Terminal License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+7	FBSPHX159N0A	XPRESSION Interactive Teller Terminal License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1	1		1	2	*					None	*				
+7	FBSPHX158N0A	XPRESSION Teller Assist Terminal	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+4	FBSWOS232N0A	MS Win 7 Pro OEM 32-bit Preload Pkg	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			06-JAN-2015 13:01:45		*							1		1			0	0	*					None	*				
+4	FBSWOS232N0B	MS Win 7 Pro OEM 32-bit Preload Pkg	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			24-JUN-2015 11:13:55		*							1		1			0	0	*					None	*				
+4	FBSWOS232N0C	MS Win 7 Pro OEM 32-bit Preload Pkg	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			17-MAR-2016 08:43:09		*							1		1			0	0	*					None	*				
+4	FBSDSA410N0A	Diebold Service Application(DSA), v1.0.2 Preload Package	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			06-JAN-2015 13:01:07		*							1		1			0	0	*					None	*				
+4	FBSOVA401N0A	OpteView Agent Preload Pkg	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			06-JAN-2015 13:00:16		*							1		1			0	0	*					None	*				
+4	FBSOVA401N0B	OpteView Agent Preload Pkg	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			11-MAY-2016 08:51:40		*							1		1			0	0	*					None	*				
+4	FBSSUF401N0A	Splunk Universal Forwarder v1.0.0 Preload Package	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			06-JAN-2015 12:59:49		*							1		1			0	0	*					None	*				
+4	FBSASX410N0A	Agilis SNMP Agent for XFS, v3.6 - Preload Package	000	Subassembly	Attribute		190	1				EA	Item	1	100	1	1	Date			15-OCT-2015 10:07:37		*							1		1			0	0	*					None	*				
+4	FBSASX420N0B	Agilis SNMP Agent v4.0.1 for XFS - Preload Package	000	Subassembly	Attribute		210	1				EA	Item	1	100	1	1	Date			17-MAR-2016 08:49:45		*							1		1			0	0	*					None	*				
+4	FSSDSA610N0C	Diebold Service Application (DSA), v1.0.2 Media Kit	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			24-JUN-2015 13:40:55		*							1		1			0	0	*					None	*				
+4	FBSXFS610N0D	Diebold XFS, v6.0.3 Media Kit	000	Subassembly	Attribute		130	1				EA	Item	1	0	1	1	Date			11-AUG-2015 10:32:07		*							1		1			0	0	*					None	*				
+4	FBSXFS610N0E	Diebold XFS, v6.0.4 Media Kit	000	Subassembly	Attribute		140	1				EA	Item	1	0	1	1	Date			17-MAR-2016 08:46:39		*							1		1			0	0	*					None	*				
+4	FBSXFS610N1E	Diebold XFS v6.0.4 Media for Windows 7 w/OS	000	Subassembly	Attribute		150	1				EA	Item	1	0	1	1	Date			17-MAR-2016 08:46:34		*							1		1			0	0	*					None	*				
+3	FBP3550D011A	PACKAGING -OUTBOUND (EXPORT)(3550TTW)	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			24-JUN-2016 10:41:16		*							1		1			0	0	*					None	*				
+3	FBP3550D011B	PACKAGING - OUTBOUND LT (3550TTW)	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			24-JUN-2016 10:41:10		*							1		1			0	0	*					None	*				
+4	FB000781792B	EPP CH2 (BSC,HEATER),LGE,ST STL,CHIN,NUM,00,.,X,I,O (CNFM)	000	Subassembly	Attribute		1620	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:35		*							1		1			0	0	*					None	*				
+4	FB000781791B	EPP CH2 (BSC,HEATER),LGE,ST STL,CHIN,NUM,.,00,X,I,O (CNFM)	000	Subassembly	Attribute		1630	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:35		*							1		1			0	0	*					None	*				
+4	FB000781701B	EPP CH2 (BSC,HEATER),LGE,ST STL,CHIN,NUM,00 ,.,X,I,O (ENT),	000	Subassembly	Attribute		1640	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:36		*							1		1			0	0	*					None	*				
+4	FB000781792C	EPP CH2 (PCI),LGE,ST STL,CHIN,NUM,00,.,X,I,O (CNFM)	000	Subassembly	Attribute		1650	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:36		*							1		1			0	0	*					None	*				
+4	FB000781791C	EPP CH2 (PCI),LGE,ST STL,CHIN,NUM,.,00,X,I,O (CNFM)	000	Subassembly	Attribute		1660	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:37		*							1		1			0	0	*					None	*				
+4	FB000781701C	EPP CH2 (PCI),LGE,ST STL,CHIN,NUM,00 ,.,X,I,O (ENT),	000	Subassembly	Attribute		1670	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:37		*							1		1			0	0	*					None	*				
+4	FB000781792D	EPP CH2(PCI,HEATER),LGE,ST STL,CHIN,NUM,00,.,X,I,O (CNFM)	000	Subassembly	Attribute		1680	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:38		*							1		1			0	0	*					None	*				
+4	FB000781791D	EPP CH2 (PCI,HEATER),LGE,ST STL,CHIN,NUM,.,00,X,I,O (CNFM)	000	Subassembly	Attribute		1690	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:38		*							1		1			0	0	*					None	*				
+4	FB000781701D	EPP CH2 (PCI,HEATER),LGE,ST STL,CHIN,NUM,00,.,X,I,O (ENT),	000	Subassembly	Attribute		1700	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:39		*							1		1			0	0	*					None	*				
+4	FB000781792E	EPP CH2 (BSC),LGE,ST STL,CHIN,NUM,00,.,X,I,O (CNFM)	000	Subassembly	Attribute		1710	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:39		*							1		1			0	0	*					None	*				
+4	FB000781791E	EPP CH2 (BSC),LGE,ST STL,CHIN,NUM,.,00,X,I,O (CNFM)	000	Subassembly	Attribute		1720	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:40		*							1		1			0	0	*					None	*				
+4	FB000781701E	EPP CH2 (BSC),LGE,ST STL,CHIN,NUM,00 ,.,X,I,O (ENT),	000	Subassembly	Attribute		1730	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:15:49		*							1		1			0	0	*					None	*				
+4	FB000781792G	EPP CH (BSC,HTR,CNE),LGE,ST STL,CHIN,NUM,00,.,X,I,O (CNFM)	000	Subassembly	Attribute		1750	1				EA	Item	1	0	1	1	Date			30-JUN-2016 09:53:02		*							1		1			0	0	*					None	*				
+4	FB007029000E	Dip Card Reader w/Chip Card Additional Install Kit	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			20-FEB-2015 15:47:59		*							1		1			0	0	*					None	*				
+4	FBMLKMA1X00A	Secondary Mechanical key Lock, 13mm Safe	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			18-FEB-2015 14:10:40		*							1		1			0	0	*					None	*				
+4	FBFLKSEAL00A	Factory install kit, safe door lock seal for CEN L / CEN I rated safes	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			07-MAY-2015 09:03:49		*							1		1			0	0	*					None	*				
+4	FBFZSDD0000A	Factory install kit, safe door seismic detector	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			01-SEP-2015 13:36:09		*							1		1			0	0	*					None	*				
+4	FBFZSDDJ000A	Factory install kit, no seismic detector on safe door	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			01-SEP-2015 13:36:09		*							1		1			0	0	*					None	*				
+4	FBMLIK55100A	CEN I Safe interlock kit, 55XX Terminals	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			28-JUN-2016 08:39:23		*							1		1			0	0	*					None	*				
+4	FB00215000EG	ECRM STD UPPER TTW TYPE 5A BV URLB Tier 1.2	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			09-JUN-2016 14:03:49		*							1		1			0	0	*					None	*				
+4	FB00215000CK	ECRM,UPR,TTW,TYPE 5B+ BV,Tier 2	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			09-JUN-2016 14:03:51		*							1		1			0	0	*					None	*				
+4	FB00215000DJ	ECRM,UPR,TTW,TYPE 5A BV,Tier 1.5	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			20-JUL-2016 13:33:35		*							1		1			0	0	*					None	*				
+4	FB00215000DK	ECRM,UPR,TTW,TYPE 5B+ BV,Tier 1.5	000	Subassembly	Attribute		110	1				EA	Item	1	0	1	1	Date			21-JUL-2016 16:28:46		*							1		1			0	0	*					None	*				
+4	FB002150000R	ECRM,UPR,TTW,TYPE 5B+ BV,URJB, LOW COST	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			21-JUL-2016 16:28:22		*							1		1			0	0	*					None	*				
+4	FB00215000CJ	ECRM,UPR,TTW,TYPE 5A BV,Tier 2	000	Subassembly	Attribute		130	1				EA	Item	1	0	1	1	Date			21-JUL-2016 16:28:22		*							1		1			0	0	*					None	*				
+4	FBMADDE5000C	Hard Disk Drive, SATA, Encrypted, 500 GB	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:38:41		*							1		1			0	4	*					None	*				
+4	FB000574000B	External DVD Drive, USB, Read/Write	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			03-MAR-2016 15:09:07		*							1		1			0	0	*					None	*				
+2	3550_CM	Diebold 3550 ATO Model (CM)	000	ATO model	ATT-FIN		200	1				EA	Item	1	0	1	1	Date			18-FEB-2015 16:18:11		*		Phantom					1		1	50				*					None	*				
+4	FB008701001A	COLOR SCHEME 8701,MICA GUN METAL,MICA BLACK,MICA SILVER	000	Purchased item	ATT-MAT		10	1				EA	Item	1	0	1	1	Date			08-APR-2015 13:43:00		*							1		1	1		0	3	*					None	*				
+4	FB008717001B	COLOR SCHEME 8717, DIEBOLD 7700, CM	000	Purchased item	ATT-FIN		20	1				EA	Item	1	0	1	1	Date			12-JUL-2016 08:37:53		*							1		1	1		0	3	*					None	*				
+4	FBB3552UBF0B	Basic Upper Structure 3550 w/Coin, Flagship	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			07-APR-2016 15:10:37		*							1		1			0	0	*					None	*				
+4	FBB3552UBC0B	Basic Upper Structure 3550 w/Coin, Custom	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			07-APR-2016 15:10:19		*							1		1			0	0	*					None	*				
+5	FBMSUL371F0A	ATM Safe, UL Level 1, 13mm wall thickness, Diebold 3700 RL Lobby Recycler, Flagship	000	Purchased item	ATT-MAT		70	1				EA	Item	1	0	1	1	Date			22-JUL-2015 10:42:01		*							1		1	1		0	3	*					None	*				
+5	FBMSUL371C0A	ATM Safe, UL Level 1, 13mm wall thickness, Diebold 3700 RL Lobby Recycler, Custom	000	Purchased item	ATT-MAT		80	1				EA	Item	1	0	1	1	Date			22-JUL-2015 10:42:03		*							1		1	1		0	3	*					None	*				
+5	FBFZSDW0000A	Factory install kit, safe wall seismic detector	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			01-SEP-2015 13:36:09		*							1		1			0	0	*					None	*				
+5	FBFZSDSJ000A	Factory install kit, no seismic detector on safe wall	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			01-SEP-2015 13:36:09		*							1		1			0	0	*					None	*				
+5	FBFPPS35BF0B	Installation Kit, Passbook Printer 3550 w/Coin, Flagship	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			07-APR-2016 15:12:30		*							1		1			0	0	*					None	*				
+5	FBFPPS35BC0B	Installation Kit, Passbook Printer 3550 w/Coin, Custom	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			07-APR-2016 15:12:16		*							1		1			0	0	*					None	*				
+5	FBFPPS355F6A	Installation Kit, No Passbook Printer 3550 w/Coin, Flagship	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			07-APR-2016 15:12:15		*							1		1			0	0	*					None	*				
+5	FBFPPS355C6A	Installation Kit, No Passbook Printer 3550 w/Coin, Custom	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			07-APR-2016 15:12:15		*							1		1			0	0	*					None	*				
+5	FBMIBCP0000A	Bar code scanner module, 1D / 2D, LED aiming, high performance	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			03-NOV-2015 09:31:42		*							1		1			0	0	*					None	*				
+5	FBFIBC35F00A	Install Kit, CM, Bar Code Reader, 3550 TTW,Flagship	000	Purchased item	ATT-MAT		40	1				EA	Item	1	0	1	1	Date			21-OCT-2015 16:24:32		*							1		1	1		0	3	*					None	*				
+5	FBFAFK352C0A	No Function Key Bezel, 3550 TTW, Custom	000	Purchased item	ATT-MAT		40	1				EA	Item	1	0	1	1	Date			18-FEB-2015 15:45:27		*							1		1	1		0	3	*					None	*				
+5	FBARSI00000A	Remote Status Indicator Cable Kit,25m	000	Purchased item	ATT-MAT		10	1				EA	Item	1	0	1	1	Date			18-FEB-2015 15:47:22		*							1		1	1		0	3	*					None	*				
+5	FBARSI00001A	Remote Status Indicator Cable Kit,100m	000	Purchased item	ATT-MAT		20	1				EA	Item	1	0	1	1	Date			18-FEB-2015 15:47:20		*							1		1	1		0	3	*					None	*				
+4	FBFDCD35BC0B	Installation Kit,Coin Dispenser CM,3550 w/Coin	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			07-APR-2016 15:14:27		*							1		1			0	0	*					None	*				
+3	FBMXNV00000A	Neutral Voltage Flag	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			09-JUN-2015 10:24:08		*							1		1			0	0	*					None	*				
+4	FBFDCD35B00A	Installation Kit,Coin Dispenser,3550 BBVA	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			13-NOV-2015 16:26:15		*							1		1			0	0	*					None	*				
+4	FBMTSP555T0A	Top signage panel, LED, Diebold 5550 TTW terminals	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			01-DEC-2015 13:55:12		*							1		1			0	0	*					None	*				
+4	FBMTSP355T0A	Top Signage Panel, LED, 3550	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			12-JUL-2016 09:18:39		*							1		1			0	0	*					None	*				
+4	FBMTSP355F0A	Install Kit, Top Signage Panel, 3550TTW, Flagship	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			01-DEC-2015 13:52:44		*							1		1			0	0	*					None	*				
+4	FBMTSP355C0A	Install Kit, Top Signage Panel, 3550TTW, Custom	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			01-DEC-2015 13:52:34		*							1		1			0	0	*					None	*				
+4	FB007948000B	Packaging for top signage panel (368,5550,3550)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			01-DEC-2015 13:54:36		*							1		1			0	0	*					None	*				
+1	PRD_SST	SST Product not ATM configuration	000	PTO model	Attribute		30	1				EA	Item	1	100	1	1	Date			25-FEB-2015 11:59:40		*		Phantom					1		1					*					None					
+3	00105882000E	Pro Services, Lousiana Flood	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			31-AUG-2016 13:08:49		*							1		1			0	0	*					None	*				
+1	PRS_SST	SST Professional Services	000	PTO model	Attribute		40	1				EA	Item	1	100	1	1	Date			25-FEB-2015 12:00:03		*		Phantom					1		1					*					None					
+3	00157260000A	PS COMMANDER Base Server Implementation	000	Subassembly	Attribute		10	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:23		*							1		1			0	0	*					None	*				
+3	00157261000A	PS COMMANDER Server with Gateway Implementation	000	Subassembly	Attribute		20	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:22		*							1		1			0	0	*					None	*				
+3	00157262000A	PS COMMANDER Marketing and Personalization - includes Campaign, Personalization, and or, 1to1	000	Subassembly	Attribute		30	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:18		*							1		1			0	0	*					None	*				
+3	00157263000A	PS ACAI - COMMANDER Marketing and Personalization - includes Campaign, Personalization, 1 to 1 and or eCommunication	000	Subassembly	Attribute		40	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:17		*							1		1			0	0	*					None	*				
+3	00157264000A	PS COMMANDER Compliance and Asset Management	000	Subassembly	Attribute		50	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157265000A	PS ACAI - COMMANDER Asset Management	000	Subassembly	Attribute		60	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157266000A	PS COMMANDER Deposit Analytics and Deposit Dispute Management	000	Subassembly	Attribute		70	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:13		*							1		1			0	0	*					None	*				
+3	00157267000A	PS COMMANDER Performance Tuning of Deposit Analytics	000	Subassembly	Attribute		80	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:12		*							1		1			0	0	*					None	*				
+3	00157268000A	PS COMMANDER Software Deployment and Management	000	Subassembly	Attribute		90	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:11		*							1		1			0	0	*					None	*				
+3	00157269000A	PS ACAI - COMMANDER Software Deployment and Management	000	Subassembly	Attribute		100	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:20		*							1		1			0	0	*					None	*				
+3	00157270000A	PS COMMANDER eCommunications	000	Subassembly	Attribute		110	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:21		*							1		1			0	0	*					None	*				
+3	00157271000A	PS COMMANDER Troubleshooting Manager	000	Subassembly	Attribute		120	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:22		*							1		1			0	0	*					None	*				
+3	00157272000A	PS COMMANDER Content Manager	000	Subassembly	Attribute		130	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:09		*							1		1			0	0	*					None	*				
+3	00157273000A	PS XPRESSION Easy Interactive	000	Subassembly	Attribute		140	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:15		*							1		1			0	0	*					None	*				
+3	00157274000A	PS XPRESSION Teller Assist	000	Subassembly	Attribute		150	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:18		*							1		1			0	0	*					None	*				
+3	00157275000A	PS XPRESSION Interactive Teller - Integration	000	Subassembly	Attribute		160	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:16		*							1		1			0	0	*					None	*				
+3	00157361000A	PS Project Management - Phoenix	000	Subassembly	Attribute		180	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:11		*							1		1			0	0	*					None	*				
+3	00157259000A	PS - VISTAatm Developer Support Bundle	000	Subassembly	Attribute		190	1				EA	Item	1	100	1	1	Date			16-AUG-2016 11:23:20		*							1		1			0	0	*					None	*				
+1	MGS_SST	SST Managed Services	000	PTO model	Attribute		50	1				EA	Item	1	100	1	1	Date			05-MAR-2015 13:35:49		*		Phantom					1		1					*					None					

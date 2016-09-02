@@ -1,0 +1,167 @@
+Level	Item	Description	Revision	Type	Status	Engineering Item	Item Seq	Op Seq	Alternate	Engineering Bill	Comments	UOM	Basis	Quantity	Planning %	Yield	Extended Quantity	Effectivity Control	From	To	From Date	To Date	Implemented	ECO	Supply Type	Subinventory	Locator	Costed	Unit Cost	Extended Quantity	Extended Cost	Operation Seq	Manufacturing	Offset	Cumulative Manufacuturing	Cumulative Total	Optional	Mutually Exclusive	ATP	Min Qty	Max Qty	Sales Order Basis	Shippable	Include on Ship Docs	Required To Ship	Required For Revenue	
+4	RC0015004HIA	OPTEVA 500 FL CASH DISPR TERM,4HI	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:45:06		*							1		1			0	0	*					None	*				
+4	RC0015205HIB	OPTEVA 520 CASH DISPR,RL TERM,5HI	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:58		*							1		1			0	0	*					None	*				
+4	RC0015224HIA	OPTEVA 522 CASH DISPR FL TERM,4HI	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:56		*							1		1			0	0	*					None	*				
+4	RC0015225HIA	OPTEVA 522 CASH DISPR FL TERM,5HI	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:53		*							1		1			0	0	*					None	*				
+4	RC0015224HIB	OPTEVA 522 CASH DISPR RL TERM,4HI	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:51		*							1		1			0	0	*					None	*				
+4	RC0015225HIB	OPTEVA 522 CASH DISPR RL TERM,5HI	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:49		*							1		1			0	0	*					None	*				
+4	RC001522VESA	OPTEVA 522 CASH DISPR VESTIBULE TERM,5HI	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:47		*							1		1			0	0	*					None	*				
+4	RC0015604HIA	OPTEVA 560,TTW TERM,CERT PRE-O4HI	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:43		*							1		1			0	0	*					None	*				
+4	RC0015605HIA	OPTEVA 560,TTW TERM,CERT PRE-O5HI	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:42		*							1		1			0	0	*					None	*				
+4	RC0015624HIA	OPTEVA 562,TTW TERM,CERT PRE-O4HI	000	Subassembly	Attribute		110	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:40		*							1		1			0	0	*					None	*				
+4	RC0015625HIA	OPTEVA 562,TTW TERM,CERT PRE-O5HI	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			02-JUN-2015 14:44:38		*							1		1			0	0	*					None	*				
+4	RC0015205HIA	OPTEVA 520 CASH DISPR,FL TERM,5HI	000	Subassembly	Attribute		130	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:16:55		*							1		1			0	0	*					None	*				
+4	RC001520VESA	OPTEVA 520 CASH DISPR,TTW TERM,5HI	000	Subassembly	Attribute		140	1				EA	Item	1	0	1	1	Date			27-APR-2016 13:39:20		*							1		1			0	0	*					None	*				
+4	RC0017404HIA	Certified 740, TTW DU, Pre-Owned	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:02		*							1		1			0	0	*					None	*				
+4	RC0017504HIA	Certified 750, DU ISL, Pre-Owned	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:03		*							1		1			0	0	*					None	*				
+4	RC0017604HIA	Certified 760, TTW, 4Hi, Pre-Owned	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:03		*							1		1			0	0	*					None	*				
+4	RC0017605HIA	Certified 760, TTW, 5Hi, Pre-Owned	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:04		*							1		1			0	0	*					None	*				
+4	RC01720F4HIA	Certified 720, FL, 4Hi, Pre-Owned	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:06		*							1		1			0	0	*					None	*				
+4	RC01720F5HIA	Certified 720, FL, 5Hi, Pre-Owned	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:07		*							1		1			0	0	*					None	*				
+4	RC01720R4HIA	Certified 720, RL, 4Hi, Pre-Owned	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:07		*							1		1			0	0	*					None	*				
+4	RC01720R5HIA	Certified 720, RL, 5Hi, Pre-Owned	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:07		*							1		1			0	0	*					None	*				
+4	RC01720V5HIA	Certified 720, Vest, 5Hi, Pre-Owned	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:05:10		*							1		1			0	0	*					None	*				
+4	R20015004HIA	Customer Owned 500 FL CASH DISPR TERM,4HI	000	Subassembly	Attribute		150	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:40		*							1		1			0	0	*					None	*				
+4	R20015205HIA	Customer Owned 520 CASH DISPR,FL TERM,5HI	000	Subassembly	Attribute		160	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:40		*							1		1			0	0	*					None	*				
+4	R20015205HIB	Customer Owned 520 CASH DISPR,RL TERM,5HI	000	Subassembly	Attribute		170	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:42		*							1		1			0	0	*					None	*				
+4	R20015224HIA	Customer Owned 522 CASH DISPR FL TERM,4HI	000	Subassembly	Attribute		180	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:43		*							1		1			0	0	*					None	*				
+4	R20015224HIB	Customer Owned 522 CASH DISPR RL TERM,4HI	000	Subassembly	Attribute		190	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:43		*							1		1			0	0	*					None	*				
+4	R20015225HIA	Customer Owned 522 CASH DISPR FL TERM,5HI	000	Subassembly	Attribute		200	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:44		*							1		1			0	0	*					None	*				
+4	R20015225HIB	Customer Owned 522 CASH DISPR RL TERM,5HI	000	Subassembly	Attribute		210	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:46		*							1		1			0	0	*					None	*				
+4	R2001522VESA	Customer Owned 522 CASH DISPR VESTIBULE TERM,5HI	000	Subassembly	Attribute		220	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:46		*							1		1			0	0	*					None	*				
+4	R20015604HIA	Customer Owned 560,TTW TERM, 4HI	000	Subassembly	Attribute		230	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:47		*							1		1			0	0	*					None	*				
+4	R20015605HIA	Customer Owned 560,TTW TERM, 5HI	000	Subassembly	Attribute		240	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:49		*							1		1			0	0	*					None	*				
+4	R20015624HIA	Customer Owned 562,TTW TERM, 4HI	000	Subassembly	Attribute		250	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:49		*							1		1			0	0	*					None	*				
+4	R20015625HIA	Customer Owned 562,TTW TERM, 5HI	000	Subassembly	Attribute		260	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:13:52		*							1		1			0	0	*					None	*				
+4	R2001520VESA	Customer Owned 520 CASH DISPR,TTW,TERM,5HI	000	Subassembly	Attribute		270	1				EA	Item	1	0	1	1	Date			27-APR-2016 13:42:51		*							1		1			0	0	*					None	*				
+4	R201720F4HIA	Customer Owned 720, FL, 4HI	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:03		*							1		1			0	0	*					None	*				
+4	R201720F5HIA	Customer Owned 720, FL, 5HI	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:03		*							1		1			0	0	*					None	*				
+4	R201720R4HIA	Customer Owned 720, RL, 4HI	000	Subassembly	Attribute		110	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:06		*							1		1			0	0	*					None	*				
+4	R201720R5HIA	Customer Owned 720, RL, 5HI	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:06		*							1		1			0	0	*					None	*				
+4	R201720V5HIA	Customer Owned 720, Vest, 5HI	000	Subassembly	Attribute		130	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:07		*							1		1			0	0	*					None	*				
+4	R20017404HIA	Customer Owned 740, TTW DU	000	Subassembly	Attribute		140	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:07		*							1		1			0	0	*					None	*				
+4	R20017504HIA	Customer Owned 750, DU ISL	000	Subassembly	Attribute		150	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:09		*							1		1			0	0	*					None	*				
+4	R20017604HIA	Customer Owned 760, TTW, 4HI	000	Subassembly	Attribute		160	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:10		*							1		1			0	0	*					None	*				
+4	R20017605HIA	Customer Owned 760, TTW, 5HI	000	Subassembly	Attribute		170	1				EA	Item	1	0	1	1	Date			08-JAN-2016 14:56:11		*							1		1			0	0	*					None	*				
+4	FB006743000B	ImageWay ATM Manager 2.0 Media Package	000	Subassembly	Attribute		10	1				EA	Item	1	100	1	1	Date			01-JUL-2015 10:28:31		*		Phantom					1		1			0	0	*					None	*				
+4	FB006741000B	ImageWay ATM Manager 2.0 License Package	000	Subassembly	Attribute		20	1				EA	Item	1	100	1	1	Date			01-JUL-2015 10:28:36		*		Phantom					1		1			0	0	*					None	*				
+4	FB006742000B	ImageWay ATM Manager 2.0 Preload Package	000	Subassembly	Attribute		30	1				EA	Item	1	100	1	1	Date			24-FEB-2016 09:18:56		*							1		1			0	0	*					None	*				
+4	FB006811001C	Agilis XFS for Opteva, v4.1.2 Platform Preload PKG	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			09-AUG-2016 08:47:12		*							1		1			0	0	*					None	*				
+4	FB006811003A	Agilis XFS for Opteva, v4.1.3 Platform Preload PKG	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			09-AUG-2016 10:43:23		*							1		1			0	0	*					None	*				
+4	FB006510009D	Agilis Opteva Base Terminal License Package - Windows 7 SP1	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			09-AUG-2016 08:46:38		*							1		1			0	0	*					None	*				
+4	FB006811001C	Agilis XFS for Opteva, v4.1.2 Platform Preload PKG	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			09-AUG-2016 08:47:53		*							1		1			0	0	*					None	*				
+4	FB006962000A	Shared Branch v2.1 Licenses (New)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			18-FEB-2016 15:32:22		*							1		1			0	0	*					None	*				
+4	FB006963000A	Shared Branch v2.1 Maintenance License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			18-FEB-2016 15:32:20		*							1		1			0	0	*					None	*				
+4	FB006961000A	Shared Branch v2.1.0 Media	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			18-FEB-2016 15:34:03		*							1		1			0	0	*					None	*				
+3	RDIDMBD720FL	IDM BD MODULE 720	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:20:13		*							1		1			0	0	*					None	*				
+3	RDIDMBD720RL	IDM BD MODULE 720 RL	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:20:11		*							1		1			0	0	*					None	*				
+3	RDIDMBD740RL	IDM BD MODULE 740 RL	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:20:11		*							1		1			0	0	*					None	*				
+3	RDIDMBD750FL	IDM BD MODULE 750	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:20:10		*							1		1			0	0	*					None	*				
+3	RDIDMBD760RL	IDM BD MODULE 760	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:20:10		*							1		1			0	0	*					None	*				
+3	RDIDM05720RL	IDM 05 MODULE 720 RL	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:23:04		*							1		1			0	0	*					None	*				
+3	RDIDM05720FL	IDM 05 MODULE 720	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:23:03		*							1		1			0	0	*					None	*				
+3	RDIDM05740RL	IDM 05 MODULE 740 RL	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:23:02		*							1		1			0	0	*					None	*				
+3	RDIDM05750FL	IDM 05 MODULE 750	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:23:02		*							1		1			0	0	*					None	*				
+3	RDIDM05760RL	IDM 05 MODULE 760	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:23:01		*							1		1			0	0	*					None	*				
+3	RD00ENA720FL	720FL ENA w/ESC and #1 Cassette	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:25:08		*							1		1			0	0	*					None	*				
+3	RD00ENA720RL	720RL ENA w/ESC and #1 Cassette	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:25:07		*							1		1			0	0	*					None	*				
+3	RD00ENA740RL	740 ENA w/ESC and #1 Cassette	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:25:07		*							1		1			0	0	*					None	*				
+3	RD00ENA750FL	750 ENA w/ESC and #1 Cassette	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:25:06		*							1		1			0	0	*					None	*				
+3	RD00ENA760RL	750 ENA w/ESC and #1 Cassette	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:25:06		*							1		1			0	0	*					None	*				
+3	RCESCCAS000A	ESC CASSETTE #2	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:19:28		*							1		1			0	0	*					None	*				
+3	RCENVDEP000A	ENVELOPE DEPOSITORY - ALL EXCEPT 760	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:26:47		*							1		1			0	0	*					None	*				
+3	RCENVDEP760A	ENVELOPE DEPOSITORY - 760 ONLY	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:26:43		*							1		1			0	4	*					None	*				
+3	RCPROCSR500A	Processor Kit 500FL	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:25		*							1		1			0	0	*					None	*				
+3	RCPROCSR520A	Processor Kit 520FL	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:25		*							1		1			0	0	*					None	*				
+3	RCPROCSR522A	Processor Kit 522	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:26		*							1		1			0	0	*					None	*				
+3	RCPROCSR562A	Processor Kit 560/562/520RL	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:26		*							1		1			0	0	*					None	*				
+3	RCPROCSR720A	Processor Kit 720FL	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:28		*							1		1			0	0	*					None	*				
+3	RCPROCSR720B	Processor Kit 720RL/720VE	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:29		*							1		1			0	0	*					None	*				
+3	RCPROCSR750A	Processor Kit 750	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:29		*							1		1			0	0	*					None	*				
+3	RCPROCSR760A	Processor Kit 740/760	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			02-JUN-2015 15:32:30		*							1		1			0	0	*					None	*				
+3	RCPCIPOLEP7A	EPP7 POLYMER PCI	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:34:10		*							1		1			0	0	*					None	*				
+3	RCPCIMETEP7A	EPP7 METAL PCI	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:34:06		*							1		1			0	0	*					None	*				
+3	RCBSCPOLEP7A	EPP7 POLYMER (BSC ONLY)	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:34:05		*							1		1			0	0	*					None	*				
+3	RCCANADAEP7A	EPP7 POLYMER (CANADA ONLY)	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:34:05		*							1		1			0	0	*					None	*				
+3	RCASPENP000A	ASPEN PRINTER	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:40:23		*							1		1			0	0	*					None	*				
+3	RCSNOWHA000A	SNOWHAVEN PRINTER	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:40:21		*							1		1			0	0	*					None	*				
+3	RCMECLCKSNGL	SINGLE COMBO MECHANICAL LOCK	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:45:25		*							1		1			0	0	*					None	*				
+3	RCELELCKSNGL	SINGLE COMBO ELECTRONIC LOCK	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:45:26		*							1		1			0	0	*					None	*				
+3	RCELELCKDUAL	DUAL CONTROL ELECTRONIC COMBO	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:45:27		*							1		1			0	0	*					None	*				
+3	RCCENCFRSTLN	CENCON LCK,FIRST LINE	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			27-APR-2016 13:48:53		*							1		1			0	0	*					None	*				
+3	RCCENCBANKMD	CENCON LCK,BANK MODE	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			27-APR-2016 13:48:52		*							1		1			0	0	*					None	*				
+3	RC15THS0000A	15 IN TOUCHSCREEN	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:52:04		*							1		1			0	0	*					None	*				
+3	RCFUNCTNKEYS	FUNCTION KEYS	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			08-JAN-2016 15:52:03		*							1		1			0	0	*					None	*				
+3	RC15THSP000A	15 IN TOUCHSCREEN,PRIVACY	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			15-MAR-2016 08:36:53		*							1		1			0	0	*					None	*				
+3	RCCONCAS000A	CONVENIENCE CURRENCY CASSETTES	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:09:36		*							1		1			0	0	*					None	*				
+3	RCSECCAS000A	SECURE CURRENCY CASSETTES	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:09:36		*							1		1			0	0	*					None	*				
+3	RCUNVCAS000A	UNIVERSAL CURRENCY CASSETTES	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:11:30		*							1		1			0	0	*					None	*				
+3	RCDIVBIN000A	DIVERT BIN	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:24:40		*							1		1			0	0	*					None	*				
+3	RCCONDIV000A	CONVENIENCE DIVERT CASSETTE	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:24:39		*							1		1			0	0	*					None	*				
+3	RCSECDIV000A	SECURE DIVERT CASSETTE	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:24:38		*							1		1			0	0	*					None	*				
+3	RCDIPCARDRDR	DIP CARD READER	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			11-JAN-2016 10:37:54		*							1		1			0	0	*					None	*				
+3	RCMTRCARDRDR	MOTORIZED CARD READER	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			11-JAN-2016 10:37:52		*							1		1			0	0	*					None	*				
+3	RC522ACTIVCD	ActivEdge CRD RDR 522	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			31-MAR-2016 08:36:46		*							1		1			0	0	*					None	*				
+3	RC760ACTIVCD	ActivEdge CRD RDR 760	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			31-MAR-2016 08:36:46		*							1		1			0	0	*					None	*				
+3	RC720FACTVCD	ActivEdge CRD RDR 720, 520F	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			31-MAR-2016 08:36:47		*							1		1			0	0	*					None	*				
+3	RC720RACTVCD	ActivEdge CRD RDR 720R	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			31-MAR-2016 08:36:49		*							1		1			0	0	*					None	*				
+3	RC740ACTIVCD	ActivEdge CRD RDR 740	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			31-MAR-2016 08:36:50		*							1		1			0	0	*					None	*				
+3	RC750ACTIVCD	ActivEdge CRD RDR 750	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			31-MAR-2016 08:36:51		*							1		1			0	0	*					None	*				
+3	RC2AFD86000A	2-Hi AFD 760,5xxRL	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:34		*							1		1			0	0	*					None	*				
+3	RC4AFD86000A	4-Hi AFD 760,5xxRL	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:35		*							1		1			0	0	*					None	*				
+3	RC5AFD86000A	5-Hi AFD 760,5xxRL	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:36		*							1		1			0	0	*					None	*				
+3	RC2AFD72000A	2Hi-AFD 750,720FL,520FL	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:39		*							1		1			0	0	*					None	*				
+3	RC4AFD72000A	4Hi-AFD 750,720FL,520FL	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:39		*							1		1			0	0	*					None	*				
+3	RC5AFD72000A	5-Hi AFD 750,720FL,520FL	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:40		*							1		1			0	0	*					None	*				
+3	RC2AFD62000A	2-Hi AFD 740,720RL	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:40		*							1		1			0	0	*					None	*				
+3	RC4AFD62000A	4-Hi AFD 740,720RL	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:42		*							1		1			0	0	*					None	*				
+3	RC5AFD62000A	5-Hi AFD,740,720RL	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:43		*							1		1			0	0	*					None	*				
+3	RC2AFD62500A	2-Hi AFD 500,522FL	000	Subassembly	Attribute		110	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:43		*							1		1			0	0	*					None	*				
+3	RC4AFD62500A	4-Hi AFD 500,522FL	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:44		*							1		1			0	0	*					None	*				
+3	RC5AFD62500A	5-Hi AFD 500,522FL	000	Subassembly	Attribute		130	1				EA	Item	1	0	1	1	Date			08-JAN-2016 16:00:46		*							1		1			0	0	*					None	*				
+3	RCBASICALARM	BASIC ALARM	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			11-JAN-2016 10:54:02		*							1		1			0	0	*					None	*				
+3	RCEAIALARM0A	EAI ALARM	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			11-JAN-2016 10:54:01		*							1		1			0	0	*					None	*				
+3	RCANTIFRDALM	ANTI-FRAUD ALARM	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			11-JAN-2016 10:54:00		*							1		1			0	0	*					None	*				
+3	RCSIESDTECTR	SEISMIC DETECTOR	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			11-JAN-2016 10:54:00		*							1		1			0	0	*					None	*				
+3	RCUPS000000A	UNINTRPT PWR SUPPLY	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:00		*							1		1			0	0	*					None	*				
+3	RCPINPADPRVA	PIN PAD PRIVACY	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:00		*							1		1			0	0	*					None	*				
+3	RCOPTEYECAMR	OPT-EYE CAMERA	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:01		*							1		1			0	0	*					None	*				
+3	RC1073NOSIGN	1073 WALL TRIM NO SIGN	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:01		*							1		1			0	0	*					None	*				
+3	RC1073WSIGNA	1073 WALL TRIM WITH SIGN	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:03		*							1		1			0	0	*					None	*				
+3	RC740TRMSIGN	740 WALL TRIM WITH SIGN	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:04		*							1		1			0	0	*					None	*				
+3	RC1072NOSIGN	1072 WALL TRIM NO SIGN	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:05		*							1		1			0	0	*					None	*				
+3	RCEAICABLE0A	EAI CABLE	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:07		*							1		1			0	0	*					None	*				
+3	RCPOWFAILRTN	CARD RETURN POWER FAIL	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			11-JAN-2016 11:01:07		*							1		1			0	0	*					None	*				
+3	RC1072WSIGNA	1072 WALL TRIM WITH SIGN	000	Subassembly	Attribute		140	1				EA	Item	1	0	1	1	Date			07-JUN-2016 15:52:46		*							1		1			0	0	*					None	*				
+3	FB000910000E	EXTERIOR CASH DISPENSER FOR UL SAFE AND AIR CONDITIONER	000	Subassembly	Attribute		150	1				EA	Item	1	0	1	1	Date			30-JUN-2016 10:22:51		*							1		1			0	0	*					None	*				
+2	RINCR0005871	NCR 5871 - PRE-OWNED	000	Purchased item	ATT-FIN		10	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:18		*							1		1	1		0	3	*					None	*				
+2	RINCR0006676	NCR 6676 - PRE-OWNED	000	Purchased item	ATT-FIN		60	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:12		*							1		1	1		0	3	*					None	*				
+2	RINCR00E5890	NCR 5890E - PRE-OWNED	000	Purchased item	ATT-FIN		80	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:08		*							1		1	1		0	3	*					None	*				
+2	RINCR00W6634	NCR 6634 WU - PRE-OWNED	000	Purchased item	ATT-FIN		90	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:08		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR1500	WINCOR 1500 - PRE-OWNED	000	Purchased item	ATT-FIN		100	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:07		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR2100	WINCOR 2100 - PRE-OWNED	000	Purchased item	ATT-FIN		110	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:07		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR2250	WINCOR 2250 - PRE-OWNED	000	Purchased item	ATT-FIN		130	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:03		*							1		1	1		0	3	*					None	*				
+2	RIWINCOR2350	WINCOR 2350 - PRE-OWNED	000	Purchased item	ATT-FIN		140	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:03		*							1		1	1		0	3	*					None	*				
+2	RINCR0006632	NCR 6632 - PRE-OWNED	000	Purchased item	ATT-FIN		150	1				EA	Item	1	0	1	1	Date			11-MAR-2016 08:49:02		*							1		1	1		0	3	*					None	*				
+1	PRS_SST	SST Professional Services	000	PTO model	Attribute		70	1				EA	Item	1	100	1	1	Date			29-APR-2016 09:59:50		*		Phantom					1		1					*					None					
+3	00157260000A	PS COMMANDER Base Server Implementation	000	Subassembly	Attribute		10	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:23		*							1		1			0	0	*					None	*				
+3	00157261000A	PS COMMANDER Server with Gateway Implementation	000	Subassembly	Attribute		20	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:22		*							1		1			0	0	*					None	*				
+3	00157262000A	PS COMMANDER Marketing and Personalization - includes Campaign, Personalization, and or, 1to1	000	Subassembly	Attribute		30	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:18		*							1		1			0	0	*					None	*				
+3	00157263000A	PS ACAI - COMMANDER Marketing and Personalization - includes Campaign, Personalization, 1 to 1 and or eCommunication	000	Subassembly	Attribute		40	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:17		*							1		1			0	0	*					None	*				
+3	00157264000A	PS COMMANDER Compliance and Asset Management	000	Subassembly	Attribute		50	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157265000A	PS ACAI - COMMANDER Asset Management	000	Subassembly	Attribute		60	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157266000A	PS COMMANDER Deposit Analytics and Deposit Dispute Management	000	Subassembly	Attribute		70	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:13		*							1		1			0	0	*					None	*				
+3	00157267000A	PS COMMANDER Performance Tuning of Deposit Analytics	000	Subassembly	Attribute		80	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:12		*							1		1			0	0	*					None	*				
+3	00157268000A	PS COMMANDER Software Deployment and Management	000	Subassembly	Attribute		90	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:11		*							1		1			0	0	*					None	*				
+3	00157269000A	PS ACAI - COMMANDER Software Deployment and Management	000	Subassembly	Attribute		100	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:20		*							1		1			0	0	*					None	*				
+3	00157270000A	PS COMMANDER eCommunications	000	Subassembly	Attribute		110	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:21		*							1		1			0	0	*					None	*				
+3	00157271000A	PS COMMANDER Troubleshooting Manager	000	Subassembly	Attribute		120	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:22		*							1		1			0	0	*					None	*				
+3	00157272000A	PS COMMANDER Content Manager	000	Subassembly	Attribute		130	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:09		*							1		1			0	0	*					None	*				
+3	00157273000A	PS XPRESSION Easy Interactive	000	Subassembly	Attribute		140	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:15		*							1		1			0	0	*					None	*				
+3	00157274000A	PS XPRESSION Teller Assist	000	Subassembly	Attribute		150	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:18		*							1		1			0	0	*					None	*				
+3	00157275000A	PS XPRESSION Interactive Teller - Integration	000	Subassembly	Attribute		160	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:16		*							1		1			0	0	*					None	*				
+3	00157361000A	PS Project Management - Phoenix	000	Subassembly	Attribute		180	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:11		*							1		1			0	0	*					None	*				
+3	00157259000A	PS - VISTAatm Developer Support Bundle	000	Subassembly	Attribute		190	1				EA	Item	1	100	1	1	Date			16-AUG-2016 11:23:20		*							1		1			0	0	*					None	*				
+1	PRD_SST	SST Product not ATM configuration	000	PTO model	Attribute		90	1				EA	Item	1	100	1	1	Date			29-APR-2016 09:59:51		*		Phantom					1		1					*					None					
+3	00105882000E	Pro Services, Lousiana Flood	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			31-AUG-2016 13:08:49		*							1		1			0	0	*					None	*				
+1	MGS_SST	SST Managed Services	000	PTO model	Attribute		100	1				EA	Item	1	100	1	1	Date			29-APR-2016 09:59:53		*		Phantom					1		1					*					None					

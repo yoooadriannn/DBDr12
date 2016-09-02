@@ -1,0 +1,91 @@
+Level	Item	Description	Revision	Type	Status	Engineering Item	Item Seq	Op Seq	Alternate	Engineering Bill	Comments	UOM	Basis	Quantity	Planning %	Yield	Extended Quantity	Effectivity Control	From	To	From Date	To Date	Implemented	ECO	Supply Type	Subinventory	Locator	Costed	Unit Cost	Extended Quantity	Extended Cost	Operation Seq	Manufacturing	Offset	Cumulative Manufacuturing	Cumulative Total	Optional	Mutually Exclusive	ATP	Min Qty	Max Qty	Sales Order Basis	Shippable	Include on Ship Docs	Required To Ship	Required For Revenue	
+1	PHX_UPG	Phoenix Software Upgrades	000	ATO model	ATT-FIN		10	1				EA	Item	1	100	1	1	Date			27-JUL-2016 14:02:50		*		Phantom					1		1					*					None	*				
+5	FBSPHX103N0A	VISTA Application 5 - Standard Configuration	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX105N0A	VISTA Application 5 - Intelligent Deposit Configuration	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX107N0A	VISTA Application 5 - IAD Configuration	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX123N0A	VISTA Platform 5 w/ EMV License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX108N0A	VISTA Audio Assist (w/ English as First Language)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX100N0A	VISTA Additional Audio Assist Language- Portugese	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX101N0A	VISTA Additional Audio Assist Language -Chinese	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX161N0A	VISTA Additional Audio Assist Language - French	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX162N0A	VISTA Additional Audio Assist Language - Spanish License	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX163N0A	VISTA Additional Audio Assist Language - German	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX109N0A	VISTA Additional On-Screen Language - Chinese (Mandarin) License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX110N0A	VISTA Additional On-Screen Language - French License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX111N0A	VISTA Additional On-Screen Language - German	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX116N0A	VISTA Additional On-Screen Language - Polish License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX113N0A	VISTA Additional On-Screen Language - Indonesian License	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX114N0A	VISTA Additional On-Screen Language - Italian License	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX115N0A	VISTA Additional On-Screen Language - Korean License	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX112N0A	VISTA Additional On-Screen Language - Portuguese License	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX117N0A	VISTA Additional On-Screen Language - Russian License	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX118N0A	VISTA Additional On-Screen Language - Spanish	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX119N0A	VISTA Additional On-Screen Language - Thai License	000	Subassembly	Attribute		110	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX120N0A	VISTA Additional On-Screen Language - Turkish License	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1	1		1	2	*					None	*				
+5	FBSPHX169N0A	VISTA Enhanced Tiled Touchscreen UX	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX125N0A	VISTA Intelligent Deposit Cash Deposit Module License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX126N0A	VISTA Intelligent Deposit Check Deposit Module (USA)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:31:49		*							1		1			0	4	*					None	*				
+5	FBSPHX127N0A	VISTA Intelligent Deposit Check Deposit Module (International)	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:31:47		*							1		1			0	4	*					None	*				
+5	FBSPHX160N0A	VISTA Enhanced Gateway (IFX Messaging)	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX102N0A	VISTA Device Monitor (SNMP) License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX124N0A	VISTA Remote Operator License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX130N0A	COMMANDER Asset Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX145N0A	ACAI COMMANDER Asset Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX132N0A	COMMANDER Campaign Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX147N0A	ACAI COMMANDER Campaign Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX149N0A	COMMANDER Content Manager Terminal License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			23-JUN-2016 08:33:47		*							1		1			0	4	*					None	*				
+5	FBSPHX152N0A	COMMANDER Software Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX153N0A	ACAI COMMANDER Software Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX134N0A	COMMANDER Troubleshooting Manager Terminal License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1	1		1	2	*					None	*				
+5	FBSPHX137N0A	COMMANDER 1:1 Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX139N0A	ACAI COMMANDER 1:1 Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX143N0A	COMMANDER Personalization Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX140N0A	ACAI COMMANDER Personalization Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX165N0A	COMMANDER Deposit Manager Terminal License	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX156N0A	COMMANDER eCommunication Manager Terminal License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX128N0A	ACAI COMMANDER eCommunication Manager Terminal License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX157N0A	XPRESSION Self-Service Terminal License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+5	FBSPHX159N0A	XPRESSION Interactive Teller Terminal License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1	1		1	2	*					None	*				
+5	FBSPHX158N0A	XPRESSION Teller Assist Terminal	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+3	FBSPHX141N0A	COMMANDER / XPRESSION Base Server License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:28		*							1		1			0	4	*					None	*				
+3	FBSPHX170N0A	COMMANDER / XPRESSION External System Gateway Server	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:29		*							1		1			0	4	*					None	*				
+3	FBSPHX129N0A	COMMANDER Asset Manager Server License	000	Subassembly	Attribute		30	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:29		*							1		1			0	4	*					None	*				
+3	FBSPHX144N0A	ACAI COMMANDER Asset Manager Server License	000	Subassembly	Attribute		40	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:29		*							1		1			0	4	*					None	*				
+3	FBSPHX131N0A	COMMANDER Campaign Manager Server License	000	Subassembly	Attribute		50	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:29		*							1		1			0	4	*					None	*				
+3	FBSPHX146N0A	ACAI COMMANDER Campaign Manager Server License	000	Subassembly	Attribute		60	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:29		*							1		1	1		1	2	*					None	*				
+3	FBSPHX148N0A	COMMANDER Content Manager Server License	000	Subassembly	Attribute		70	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:29		*							1		1			0	4	*					None	*				
+3	FBSPHX150N0A	COMMANDER Software Manager Server	000	Subassembly	Attribute		80	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:30		*							1		1			0	4	*					None	*				
+3	FBSPHX151N0A	ACAI COMMANDER Software Manager Server License	000	Subassembly	Attribute		90	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:30		*							1		1			0	4	*					None	*				
+3	FBSPHX133N0A	COMMANDER Troubleshooting Manager Server License	000	Subassembly	Attribute		100	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:30		*							1		1			0	4	*					None	*				
+3	FBSPHX136N0A	COMMANDER 1:1 Manager Server License	000	Subassembly	Attribute		110	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:30		*							1		1			0	4	*					None	*				
+3	FBSPHX154N0A	ACAI - Commander 1:1 Manager Server License	000	Subassembly	Attribute		120	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:30		*							1		1			0	4	*					None	*				
+3	FBSPHX142N0A	COMMANDER Personalization Manager Server License	000	Subassembly	Attribute		130	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:31		*							1		1			0	4	*					None	*				
+3	FBSPHX135N0A	ACAI COMMANDER Personalization Manager Server License	000	Subassembly	Attribute		140	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:31		*							1		1	1		1	2	*					None	*				
+3	FBSPHX164N0A	COMMANDER Deposit Manager Server License	000	Subassembly	Attribute		150	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:32		*							1		1			0	4	*					None	*				
+3	FBSPHX155N0A	COMMANDER eCommunication Manager Server License	000	Subassembly	Attribute		160	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:32		*							1		1			0	4	*					None	*				
+3	FBSPHX138N0A	ACAI COMMANDER eCommunication Manager Server License	000	Subassembly	Attribute		170	1				EA	Item	1	0	1	1	Date			28-JUL-2016 09:37:35		*							1		1			0	4	*					None	*				
+3	FBSPHX122N0A	VISTA Developer Workbench License	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+3	00108320000B	SEP SFTW FOR DIEBOLD ATMS, LIC PKG	000	Subassembly	Attribute		20	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	0	*					None	*				
+3	00152237000D	Agilis XFS for Opteva, v4.1.3	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	0	*					None	*				
+3	FBSPHX166N0A	VISTA License with Operating System License Upgrade	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			22-JUN-2016 10:21:56		*							1		1			0	4	*					None	*				
+1	PRD_SST	SST Product not ATM configuration	000	PTO model	Attribute		20	1				EA	Item	1	100	1	1	Date			03-AUG-2016 15:44:34		*		Phantom					1		1					*					None					
+3	00105882000E	Pro Services, Lousiana Flood	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			31-AUG-2016 13:08:49		*							1		1			0	0	*					None	*				
+1	PRS_SST	SST Professional Services	000	PTO model	Attribute		30	1				EA	Item	1	100	1	1	Date			03-AUG-2016 15:46:15		*		Phantom					1		1					*					None					
+3	00157260000A	PS COMMANDER Base Server Implementation	000	Subassembly	Attribute		10	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:23		*							1		1			0	0	*					None	*				
+3	00157261000A	PS COMMANDER Server with Gateway Implementation	000	Subassembly	Attribute		20	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:22		*							1		1			0	0	*					None	*				
+3	00157262000A	PS COMMANDER Marketing and Personalization - includes Campaign, Personalization, and or, 1to1	000	Subassembly	Attribute		30	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:18		*							1		1			0	0	*					None	*				
+3	00157263000A	PS ACAI - COMMANDER Marketing and Personalization - includes Campaign, Personalization, 1 to 1 and or eCommunication	000	Subassembly	Attribute		40	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:17		*							1		1			0	0	*					None	*				
+3	00157264000A	PS COMMANDER Compliance and Asset Management	000	Subassembly	Attribute		50	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157265000A	PS ACAI - COMMANDER Asset Management	000	Subassembly	Attribute		60	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:16		*							1		1			0	0	*					None	*				
+3	00157266000A	PS COMMANDER Deposit Analytics and Deposit Dispute Management	000	Subassembly	Attribute		70	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:13		*							1		1			0	0	*					None	*				
+3	00157267000A	PS COMMANDER Performance Tuning of Deposit Analytics	000	Subassembly	Attribute		80	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:12		*							1		1			0	0	*					None	*				
+3	00157268000A	PS COMMANDER Software Deployment and Management	000	Subassembly	Attribute		90	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:11		*							1		1			0	0	*					None	*				
+3	00157269000A	PS ACAI - COMMANDER Software Deployment and Management	000	Subassembly	Attribute		100	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:20		*							1		1			0	0	*					None	*				
+3	00157270000A	PS COMMANDER eCommunications	000	Subassembly	Attribute		110	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:21		*							1		1			0	0	*					None	*				
+3	00157271000A	PS COMMANDER Troubleshooting Manager	000	Subassembly	Attribute		120	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:22		*							1		1			0	0	*					None	*				
+3	00157272000A	PS COMMANDER Content Manager	000	Subassembly	Attribute		130	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:38:09		*							1		1			0	0	*					None	*				
+3	00157273000A	PS XPRESSION Easy Interactive	000	Subassembly	Attribute		140	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:15		*							1		1			0	0	*					None	*				
+3	00157274000A	PS XPRESSION Teller Assist	000	Subassembly	Attribute		150	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:18		*							1		1			0	0	*					None	*				
+3	00157275000A	PS XPRESSION Interactive Teller - Integration	000	Subassembly	Attribute		160	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:16		*							1		1			0	0	*					None	*				
+3	00157361000A	PS Project Management - Phoenix	000	Subassembly	Attribute		180	1				EA	Item	1	100	1	1	Date			22-JUN-2016 11:37:11		*							1		1			0	0	*					None	*				
+3	00157259000A	PS - VISTAatm Developer Support Bundle	000	Subassembly	Attribute		190	1				EA	Item	1	100	1	1	Date			16-AUG-2016 11:23:20		*							1		1			0	0	*					None	*				

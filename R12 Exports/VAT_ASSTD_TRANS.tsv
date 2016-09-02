@@ -1,0 +1,9 @@
+Level	Item	Description	Revision	Type	Status	Engineering Item	Item Seq	Op Seq	Alternate	Engineering Bill	Comments	UOM	Basis	Quantity	Planning %	Yield	Extended Quantity	Effectivity Control	From	To	From Date	To Date	Implemented	ECO	Supply Type	Subinventory	Locator	Costed	Unit Cost	Extended Quantity	Extended Cost	Operation Seq	Manufacturing	Offset	Cumulative Manufacuturing	Cumulative Total	Optional	Mutually Exclusive	ATP	Min Qty	Max Qty	Sales Order Basis	Shippable	Include on Ship Docs	Required To Ship	Required For Revenue	
+2	11048485000F	Assisted Transaction CD	000	Subassembly	Attribute		10	1				EA	Item	1	0	1	1	Date			17-DEC-2015 11:17:24		*							1		1			0	0	*					None	*				
+3	00013544000B	ACM,ONE ON ONE	000	Purchased item	ATT-MAT		20	1				EA	Item	1	0	1	1	Date			10-SEP-2009 00:00:00		*							1		1	28		0	33	*					None	*	*			
+3	19083649000A	OPEN Phenix Outdoor LED Backlit; 7x18	000	Purchased item	ATT-MAT		230	1				EA	Item	1	100	1	1	Date			02-FEB-2016 08:41:54		*							1		1	30		0	32						None	*				
+3	19083648000A	CLOSED Phenix Outdoor LED Backlit; 7x18	000	Purchased item	ATT-MAT		240	1				EA	Item	1	100	1	1	Date			02-FEB-2016 08:42:26		*							1		1	30		0	32						None	*				
+3	19083647000A	ATM Phenix LED Backlit with Blank-out 7x18	000	Purchased item	ATT-MAT		250	1				EA	Item	1	100	1	1	Date			02-FEB-2016 08:42:34		*							1		1	30		0	32						None	*				
+3	19083650000A	Side-by-Side OPEN,CLOSED Phenix LED Back 7x34	000	Purchased item	ATT-MAT		340	1				EA	Item	1	100	1	1	Date			02-FEB-2016 09:16:51		*							1		1	30		0	32						None	*				
+3	19083661000A	COMMERCIAL, Phenix 7x34	000	Purchased item	ATT-MAT		350	1				EA	Item	1	100	1	1	Date			02-FEB-2016 09:16:56		*							1		1	30		0	32						None	*				
+3	19083651000A	Stacked OPEN,CLOSED Phenix LED Backlit 14x18	000	Purchased item	ATT-MAT		400	1				EA	Item	1	100	1	1	Date			02-FEB-2016 09:20:30		*							1		1	30		0	32						None	*				
